@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html>
-<body>
 
-<h1>A Web Page</h1>
-<p id="demo"> A Paragraph</p>
-<button type="button" onclick="myFuction()">Try It </button>
+	document.writeln("<h1> HI WELCOME</h1>");
+	console.log("Hello console")
 
-<script>
-function myFuction() {
-	document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-
-
-</body>
-</html>
+	var i =9;
+	var name="Shubham"
+	var array1 = ["hello","world","hello"];
+	
